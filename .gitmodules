@@ -1,0 +1,9 @@
+[submodule "ticketing-app"]
+	path = ticketing-app
+	url = https://github.com/beckn/transit-ticketing-app.git
+[submodule "client-backend"]
+	path = client-backend
+	url = https://github.com/beckn/transit-ticketing-client-backend.git
+[submodule "protocol-adaptor"]
+	path = protocol-adaptor
+	url = https://github.com/beckn/transit-ticketing-bpp-protocol-adaptor.git
